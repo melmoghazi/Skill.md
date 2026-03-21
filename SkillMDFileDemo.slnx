@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/skills/" />
+  <Folder Name="/skills/clean-architecture/">
+    <File Path="../../Users/Mohammed/Desktop/New folder/skills/clean-architecture/SKILL.md" />
+  </Folder>
+  <Folder Name="/skills/excel-data-processing/">
+    <File Path="../../Users/Mohammed/Desktop/New folder/skills/excel-data-processing/SKILL.md" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/SkillMDFileDemo.API/">
+    <Project Path="SkillMDFileDemo.API/SkillMDFileDemo.API.csproj" />
+  </Folder>
+  <Folder Name="/src/SkillMDFileDemo.Core/">
+    <Project Path="SkillMDFileDemo.Application/SkillMDFileDemo.Application.csproj" />
+    <Project Path="SkillMDFileDemo.Domain/SkillMDFileDemo.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/SkillMDFileDemo.Infrastructure/">
+    <Project Path="SkillMDFileDemo.Infrastructure/SkillMDFileDemo.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
