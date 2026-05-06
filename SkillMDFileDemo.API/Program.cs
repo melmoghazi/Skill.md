@@ -23,10 +23,11 @@ namespace SkillMDFileDemo.API
 
             var app = builder.Build();
 
+            //comment this if you want to see the swagger UI, otherwise it will be available at /openapi
             //// Configure the HTTP request pipeline.
             //if (app.Environment.IsDevelopment())
             //{
-                app.MapOpenApi();
+            app.MapOpenApi();
                 app.MapScalarApiReference();
             //}
 
